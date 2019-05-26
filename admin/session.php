@@ -1,0 +1,5 @@
+<?php
+
+inclued("../config.php");
+
+?>
